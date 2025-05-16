@@ -28,7 +28,7 @@
 ## GitHub Stats
 <!--streak stats-->
 <!--docs at https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization-->
-[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTibiGT)](https://github.com/Ibrahim/github-readme-stats)
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTibiGT&show icons=true&theme=camo)
 
 <!--language stats-->
 
