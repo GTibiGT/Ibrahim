@@ -24,5 +24,16 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Fusion 360]
+
+## GitHub Stats
+<!--streak stats-->
+<!--docs at https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization-->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim&theme=gotham&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000)
+<!--language stats-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim&hide=jupyter%20notebook&theme=gotham&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
+
+<!---
+Ibrahim/Ibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
