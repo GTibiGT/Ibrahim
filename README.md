@@ -30,6 +30,8 @@
 <!--docs at https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization-->
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=GTibiGT&show_icons=true&theme=ambient_gradient)
 
+![Ibrahim's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=GTibiGT&theme=ambient_gradient&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000)
+
 <!--language stats-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GTibiGT&theme=ambient_gradient)
 
