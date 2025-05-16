@@ -28,9 +28,9 @@
 ## GitHub Stats
 <!--streak stats-->
 <!--docs at https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ibrahim&theme=gotham&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000)
+[![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--language stats-->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim&hide=jupyter%20notebook&theme=gotham&hide_border=true&title_color=00e3fc&text_color=00e3fc&icon_color=00e3fc&bg_color=000000&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
 
 <!---
 Ibrahim/Ibrahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
