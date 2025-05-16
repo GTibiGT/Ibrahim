@@ -24,6 +24,7 @@
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-blue?logo=autodesk&logoColor=white)
 
 ## GitHub Stats
 <!--streak stats-->
