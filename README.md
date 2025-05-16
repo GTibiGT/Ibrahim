@@ -1,10 +1,10 @@
 # Welcome!
 
 ## About me:
-- Born in Denmark DEN, lived in Pakistan now living in Canada
-- Studying Math and CS at University of Toronto
+- Born in Denmark, lived in Pakistan, now living in Canada
+- Studying Math and CS at the University of Toronto
 - Interested in Game Development and natural language processing
-- I like Soccer, Rugby, Juijitsu, Drawing and working on cars
+- I like Soccer, Rugby, Jiu-Jitsu, Drawing and working on cars
 
   <!--## add major projects (TODO)-->
 
